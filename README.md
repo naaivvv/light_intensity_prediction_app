@@ -12,6 +12,8 @@ Edwin P. Bayog Jr. BSCpE 3-A
 
 CPE333-V Environmental Engineering
 
+Technological University of the Philippines - Visayas
+
 ---
 
 *The jupyter file can be run on both Local Device and Google COLAB*
