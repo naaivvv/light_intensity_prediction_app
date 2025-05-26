@@ -109,7 +109,7 @@ def display_prediction_with_pollution_level(is_value):
         st.warning(f"⚠️ Intensity ({is_value_pyfloat:.4f}) is **above** the defined maximum ({MAX_IS_VALUE_FOR_POLLUTION_RANGE}) for this visualization, suggesting very high pollution potential.", icon="📈")
     elif is_value_pyfloat < MIN_IS_VALUE_FOR_POLLUTION_RANGE:
         st.info(f"ℹ️ Intensity ({is_value_pyfloat:.4f}) is **below** the defined minimum ({MIN_IS_VALUE_FOR_POLLUTION_RANGE}) for this visualization, suggesting very low pollution potential.", icon="📉")
-    
+
     st.markdown("---")
 
     # --- Estimated Pollution Level Section ---
@@ -210,7 +210,7 @@ if model and scaler and all_feature_names:
                 st.error(f"An error occurred during prediction: {e}")
                 st.dataframe(input_df_float.head())
                 st.text(f"Input DataFrame dtypes:\n{input_df_float.dtypes}")
-                
+
     st.sidebar.markdown("---")
     st.sidebar.info("Adjust feature values using the controls above and click 'Predict' to see the results.")
 
