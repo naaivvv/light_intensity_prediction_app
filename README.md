@@ -16,4 +16,4 @@ Technological University of the Philippines - Visayas
 
 ---
 
-*The jupyter file can be run on both Local Device and Google COLAB*
+*You can run the Jupyter Notebook file on both a local device and Google Colab.*
