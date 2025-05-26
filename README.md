@@ -15,5 +15,3 @@ CPE333-V Environmental Engineering
 Technological University of the Philippines - Visayas
 
 ---
-
-*You can run the Jupyter Notebook file on both a local device and Google Colab.*
