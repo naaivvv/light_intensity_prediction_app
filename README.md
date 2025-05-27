@@ -4,7 +4,7 @@ This project demonstrates the prediction of light intensity ('Is') and associate
 
 **Kaggle Dataset:** [Monitoring Light Pollution](https://www.kaggle.com/datasets/hamtaghanbaripour/monitoring-light-pollution)
 
-**GitHub Repository:** [Light Intensity Prediction App](https://github.com/naaivvv/light_intensity_prediction_app.git)
+**GitHub Repository:** [Light Intensity and Pollution Prediction App](https://github.com/naaivvv/light_intensity_prediction_app.git)
 
 ---
 
